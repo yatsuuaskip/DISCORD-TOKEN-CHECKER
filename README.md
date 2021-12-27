@@ -2,4 +2,5 @@
 
 DISCORD TOKEN CHECKER 
 
-https://zupimages.net/up/21/52/0vye.png
+<img width="500" height="500" align="left" style="float: left; margin: 0 10px 0 0;" alt="yatsuu" src="https://zupimages.net/up/21/52/0vye.png">  
+
