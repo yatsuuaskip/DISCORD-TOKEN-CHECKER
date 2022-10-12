@@ -1,5 +1,9 @@
 # 🌊 DISCORD-TOKEN-CHECKER
 
+(Ce n'est pas mon script)
+(Ce n'est pas mon script)
+(Ce n'est pas mon script)
+
 DISCORD TOKEN CHECKER | VALIDE | BLOQUER | INVALIDE ✅❌📛
 
 LAISSE UNE ETOILE ⭐
